@@ -294,6 +294,7 @@ const SocialCount = styled.ul`
             display:flex;
             width:80px;
         }
+       
     }
 
 
